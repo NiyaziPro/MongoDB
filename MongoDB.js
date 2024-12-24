@@ -1,3 +1,5 @@
+/* MongoDB */
+
 use("products");
 db.electronics.find();
 
